@@ -25,3 +25,6 @@ Autonomous vehicles
 Retail inventory management
 Robotics and automation
 
+
+LINK: https://woody.pizza/tensorflow/object-detection/
+
